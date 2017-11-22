@@ -7,7 +7,7 @@
 //
 
 @import UIKit;
-
+#import "FFMainView.h"
 @interface FFViewController : UIViewController
 
 @end

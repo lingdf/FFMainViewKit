@@ -1,0 +1,22 @@
+{
+  "name": "FFMainViewKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFMainViewKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lingdf/FFMainViewKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lingdf": "lfidc2008@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lingdf/FFMainViewKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFMainViewKit/Classes/**/*"
+}
